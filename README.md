@@ -2,7 +2,8 @@
 The scikit-learn Communication Team helps with outreach and communication for scikit-learn. 
 
 ## Request to Share Content
-Please add requests for sharing content on scikit-learn social media to the [Issues](https://github.com/scikit-learn/communication/issues) section.      
+Please add requests for sharing content on scikit-learn social media to the [Issues](https://github.com/scikit-learn/communication/issues) section.
+Please add a 
 The Communications Team will review and schedule content accordingly.
 
 Examples of content we can share:
