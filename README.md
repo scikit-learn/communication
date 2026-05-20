@@ -18,3 +18,8 @@ Examples of content we can share:
 ## Request for Social Media Card Design
 Please add request for Social Media cards and GIFs to the [Issues](https://github.com/scikit-learn/communication/issues) section. 
 Tag these requests with "Design".
+
+
+## Brand and trademark guidelines
+
+Scikit-learn and it's logo are protected trademarks. A [detailed document](https://github.com/scikit-learn/blog/blob/main/assets/brand_guidelines/2025-02-scikit-learn-brand-guidelines.pdf) containing the terms of use of the scikit-learn brand is available for reference.
